@@ -1,0 +1,24 @@
+[
+    {
+        "id": "pc-wallpaper-dragon",
+        "title": "Dragon in the Machine",
+        "description": "My most complex piece featuring binary dragon artwork with dynamic zigzag backgrounds and 3D tilted watermark effects.",
+        "image": "../captures/pc-wallpaper-dragon.png",
+        "category": "wallpaper",
+        "tags": ["4K", "dragon", "binary", "wallpaper"],
+        "techniques": ["Image-to-binary conversion", "Zigzag pattern generation", "3D tilted effects"],
+        "dimensions": "3840x2160",
+        "file": "src/pc_wallpaper.js"
+    },
+    {
+        "id": "legendary-saying-colors",
+        "title": "Color Symphony",
+        "description": "An experimental piece focusing on color theory and geometric composition with real-time color adjustment capabilities.",
+        "image": "../captures/legendary-saying-colors.png",
+        "category": "experimental",
+        "tags": ["colors", "geometric", "interactive", "A4"],
+        "techniques": ["Angled background sections", "Mathematical precision", "Interactive color tweaking"],
+        "dimensions": "3508x2480",
+        "file": "src/legendary-saying.js"
+    }
+]
