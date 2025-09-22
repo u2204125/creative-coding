@@ -8,8 +8,6 @@ yarn.lock
 
 # Generated exports
 exports/
-output/
-*.png
 *.jpg
 *.jpeg
 *.pdf
