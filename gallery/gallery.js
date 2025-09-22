@@ -87,10 +87,9 @@ function createGalleryItem(artwork) {
             </svg>
         </div>
         <div class="gallery-item-overlay">
-            <h3>${artwork.title}</h3>
-            <p>${artwork.description.substring(0, 80)}...</p>
-            <div class="gallery-tags">
-                ${tagsHTML}
+            <div class="overlay-content">
+                <h3>${artwork.title}</h3>
+                <p>${artwork.description.substring(0, 100)}...</p>
             </div>
         </div>
     `;
